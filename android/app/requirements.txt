@@ -1,0 +1,3 @@
+package name: com.example.instgram_clone_1
+App nickname: Anddroid app
+
